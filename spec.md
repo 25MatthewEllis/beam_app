@@ -47,8 +47,10 @@ preliminary calculator, not a code-compliant design tool.
 Clean and professional, with a prominent unit toggle at the top and an
 example beam loaded when it opens. The example uses the default self-weight
 setting, which is on.
-- Use a subtle warehouse-inspired background while keeping the controls and
-  results panels high-contrast and easy to read.
+- Use an over-the-top warehouse-industrial theme: steel-beam motifs, a
+  condensed industrial font stack, concrete/metal grays, safety-yellow and
+  rust accents, and wood-grain panels and cards with visible nail details.
+  Keep controls and results high-contrast and easy to read.
 - Keep the cross-section preview in the left input column. Show reactions,
   calculated information, and comparisons in the left input column below the
   applied-load controls; put the loaded-beam sketch on the right, with shear,

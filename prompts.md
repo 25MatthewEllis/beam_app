@@ -87,3 +87,7 @@
 - **Asked:** Confirm whether the overhang update is complete after reviewing the interface.
 - **Changed:** Confirmed the validated layout and prepared the verified project changes for the requested automatic commit.
 - **Worked:** Yes.
+
+- **Asked:** Make the warehouse theme over-the-top, with steel beams, an industrial font, gray/yellow industrial colors, and wood boxes with nails.
+- **Changed:** Added a warehouse steel-girder backdrop and header, a condensed industrial font stack, safety-yellow and metal-gray styling, and wood-grain crate panels/cards with nail details. Updated the visual spec and planning checklist.
+- **Worked:** Yes; browser verified the new theme, preserved the 51.3 kip-ft benchmark, and confirmed the mobile layout has no horizontal overflow.
